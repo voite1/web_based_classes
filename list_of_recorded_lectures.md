@@ -11,6 +11,7 @@ Lecture 8: http://uweoconnect.extn.washington.edu/p3i6wes06rj/
 Lecture 9: http://uweoconnect.extn.washington.edu/p6obx63mp99/
 Lecture 10: http://uweoconnect.extn.washington.edu/p60kxsmzfan/
 
+
 Data Visualization 200:
 =======================
 Lecture 1: http://uweoconnect.extn.washington.edu/p67o5o72etv/
